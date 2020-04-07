@@ -1,0 +1,24 @@
+{
+    "name": "d3test",
+    "version": "1.0.0",
+    "description": "d3 test",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EricBillings/d3.git"
+    },
+    "author": "EB",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/EricBillings/d3/issues"
+    },
+    "homepage": "https://github.com/EricBillings/d3#readme",
+    "dependencies": {
+        "d3": "^5.15.1",
+        "express": "^4.17.1"
+    }
+}
